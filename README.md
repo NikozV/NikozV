@@ -18,10 +18,4 @@ ___
 - :bird: [Twitter](https://twitter.com/mnvassallo)
 - :camera: [Intagram](https://www.instagram.com/m_nicolas_v/)
 ___
-
-
-
-
-
-
-
+![Profile views](https://gpvc.arturio.dev/NikozV)  
