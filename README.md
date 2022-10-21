@@ -5,7 +5,7 @@
 ___
 - :sunrise_over_mountains: Vivo en El Challao, Las Heras, Mendoza, Argentina.
 - :mortar_board: Graduado en diciembre 2021 en [INCuyo](http://incuyo.org/), donde conocí grandes compañeros, y profesores con los cual sigo aprendido y teniendo proyectos en común.
-- 🔭 Actualmente trabajo como administrativo / auditor en una empresa de Internaciones domiciliarias. Y como profesor de programación en el Instituto Nuevo Cuyo.
+- 🔭 Actualmente trabajo como Programador independiente. Y como profesor de programación en el Instituto Nuevo Cuyo.
 - 🌱 Estoy en constante aprendizaje para logra mi meta de trabajar en IT.
 - 👯 Espero en un futuro poder colaborar en algún proyecto Open Source.
 ___
